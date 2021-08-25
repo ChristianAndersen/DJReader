@@ -1,0 +1,29 @@
+//
+//  DJReader.pch
+//  DJReader
+//
+//  Created by Andersen on 2020/3/5.
+//  Copyright © 2020 Andersen. All rights reserved.
+#ifndef DJReader_pch
+#define DJReader_pch
+
+
+#import "CSMacroHeader.h"
+#import "CSMethodMacroHead.h"
+#import "Masonry.h"
+#import "DJReaderEnums.h"
+#import "DJReaderURL.h"
+#import "DJReadManager.h"
+#import "CSFunctions.h"
+#import "AppDelegate.h"
+//category
+#import "UIView+Frame.h"
+#import "NSString+Methods.h"
+#import "UIImage+prv_method.h"
+#import "NSObject+bitMap.h"
+#import "NSObject+YYModel.h"
+#import "UIColor+DrakMode.h"
+#import "CSSnowIDFactory.h"
+#import "UIColor+Hex.h"
+
+#endif /* DJReader_pch */

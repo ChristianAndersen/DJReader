@@ -1,0 +1,22 @@
+{
+    "applinks": 
+   {
+        "apps": [],
+        "details": 
+	[
+
+            {
+                "appID": "Q68N88F85E.com.dianju.OFD",
+                "paths": ["/OFD/*"]
+            }
+	    {
+                "appID": "Q68N88F85E.com.dianju.OFD",
+                "paths": ["/app/*"]
+            }
+	    {
+                "appID": "Q68N88F85E.com.dianju.OFD",
+                "paths": ["/.well-known/*"]
+            }
+        ]
+    }
+}

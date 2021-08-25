@@ -1,0 +1,130 @@
+
+QF_SEAL_TYPE_NONE = 0,
+	QF_SEAL_TYPE_NORMAL = 1,
+	QF_SEAL_TYPE_ODDEVEN = 2,
+	QF_SEAL_FROM_DATA = 4,
+	QF_SEAL_FROM_FILE = 8,
+
+
+#define E_OK                    0     ³É¹¦
+#define E_LINK_SERVERBUSY       -1   
+#define E_LINK_SERVERNOTAVAIL   -2   
+#define E_LINK_UNKNOWN          -3   
+#define E_INVALID_CMD           -5   
+#define E_NOT_IMPLEMENT         -6   
+#define E_PACKAGE_CORRUPT       -7   
+#define E_SERV_ERRORTIME        -8   
+#define E_INVALID_PATH          -9   
+
+#define E_CERT_LOST             -11   
+#define E_CERT_PAST             -12   
+#define E_CERT_NO_INDB          -13   
+
+#define E_SEAL_NOACCESS         -20   
+#define E_SEAL_LOST             -21   
+#define E_SEAL_PAST             -22   
+#define E_SEAL_NOTEXIST         -23   
+                                    
+#define E_DOC_NOACCESS          -30   
+#define E_DOC_LOCK              -31   
+#define E_DOC_NOEXIST           -33   
+#define E_DOC_NOPRNACCESS       -35   
+#define E_DOC_DOCPRNNONUM       -36   
+                                    
+#define E_DB_OPENEXCEPTION      -40   
+#define E_DB_UPDATEEXCEPTION    -41   
+#define E_DB_READEXCEPTION      -42   
+#define E_DB_EXCEPTION          -43   
+                                    
+#define E_LINK_USERNOLOGIN      -50   
+#define E_LINK_USERPWDERROR     -51   
+#define E_LINK_USEEXPIRE        -52   
+#define E_USER_NOTEXIST         -53   
+                                    
+#define E_USERPWDFORMAT         -54   
+#define E_USERNOCERT            -55   
+                                    
+                                    
+#define E_LINK_SERVNOTREG       -70   
+#define E_SERV_USEROVER         -71   
+#define E_SERV_NOMATCH          -72   
+#define E_SERV_LOGTYPE          -73   
+#define E_SERV_TIMEOUT          -74   
+#define E_SERV_ERROR            -75   
+#define E_SERV_EREXPIRED        -80 
+
+#define E_SERV_ADDRNOTAVAIL     -100 
+#define E_LINK_TIMEOUT          -101 
+#define E_USERCANCEL            -102 
+#define E_USER_SHOULDBEDEMO     -103 
+#define E_NOUSER_LIST           -104 
+                                    
+#define E_NEWUSER_LOGIN         -110 
+#define E_ERROR                 -111 
+                                    
+#define E_INVALID_OBJECT        -120 
+#define E_INVALID_DATA          -121 
+#define E_INVALID_WND           -122 
+#define E_INVALID_PWD           -123 
+                                    
+                                    
+                                    
+#define E_VERIFYSIGN_ERROR      -130 
+#define E_LOW_MEMORY            -131 
+                                    
+#define E_INVALID_LICENSE       -140 
+#define E_INVALID_TYPE          -141 
+#define E_UNKNOWN               -142 
+                                    
+#define E_CERT_NO_CARD          -200 
+#define E_CERT_PIN_PWD          -201 
+#define E_CERT_NO_PRIVATEKEY    -202 
+#define E_CERT_NO_CERT          -203 
+#define E_CERT_NO_CSP           -204 
+#define E_CERT_MORE_TOKEN       -205 
+#define E_CERT_NO_DRIVER        -206 
+#define E_CERT_UNKNOWN          -209 
+#define E_CERT_VERFYERROR       -210 
+#define E_CERT_NO_SEAL          -211 
+#define E_CERT_CAVERFYERROR     -212 
+#define E_CERT_CRLVERFYERROR    -213 
+#define E_CERT_ECC_MODE         -214 
+
+#define E_CONTINUE_NOLIC        -230   
+#define E_INVALID_NOTENAME      -231 
+#define E_INVALID_USERNAME      -232 
+#define E_SAME_NAME            -233 
+#define E_USER_NOTLOGIN         -234 
+#define E_INVALID_URL         -235 
+#define E_INVALID_OLEOBJ      -236 
+#define E_INVALID_DOC         -237 
+#define E_NO_PRINTER         -238 
+#define E_INVALID_NAME         -239 
+#define E_NOTEEXISTINAREA      -240 
+#define E_INVALID_CERT         -241 
+#define E_CERT_NOTEXIST         -242 
+#define E_SAME_COPY            -243 
+#define E_ACCESS_NOTRIGHT      -244 
+#define E_INVALID_OPENPWD      -245 
+#define E_OPEN_NEEDSERVER      -246 
+#define E_DOC_PAST            -247 
+#define E_DOC_CANTSAVEAS      -248 
+#define E_USER_DEMOREJECT      -249 
+#define E_NOACCESS            -250 
+#define E_ERRSTATUS_URL         -251 
+#define E_PAGE_NOEXIST          -252 
+
+#define E_ADDPORT_ERROR         -260 
+#define E_ADDPRINT_ERROR      -261 
+#define E_ADDDRIVER_ERROR      -262 
+#define E_ADDMONITOR_ERROR      -263 
+
+#define E_NOT_INIT              -270 
+#define E_TIMEOUT               -271  ³¬Ê±
+
+#define E_IN_ASYNCMODE          -280 
+#define E_DOC_MODIFIED         -281 
+#define E_SEALPOSERR         -282 
+#define E_NO_TAGOBJ             -283 
+
+#define E_LICENSE_NOTEXIST      -290

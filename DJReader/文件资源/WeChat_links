@@ -1,0 +1,52 @@
+{
+    "applinks":
+    {
+        "apps": [ ],
+        "details": [
+                    {
+                        "appID": "532LCLCWL8.com.tencent.xin",
+                        "paths": [ "/cgi-bin/newreadtemplate", "/app/*" ]
+                    },
+                    {
+                        "appID": "88L2Q4487U.com.tencent.xin",
+                        "paths": [ "/cgi-bin/newreadtemplate", "/app/*" ]
+                    },
+                    {
+                        "appID": "8P7343TG54.com.tencent.wc.xin",
+                        "paths": [ "/cgi-bin/newreadtemplate", "/app/*" ]
+                    },
+                    {
+                        "appID": "SG5PVJM4JW.com.tencent.wx",
+                        "paths": [ "/cgi-bin/newreadtemplate", "/app/*" ]
+                    },
+                    {
+                        "appID": "2CJ5YJ6LY5.com.tencent.wechat.xin",
+                        "paths": [ "/cgi-bin/newreadtemplate", "/app/*" ]
+                    },
+                    {
+                        "appID": "8H3NQF6GGQ.com.tencent.xin",
+                        "paths": [ "/cgi-bin/newreadtemplate", "/app/*" ]
+                    },
+                    {
+                        "appID": "8P7343TG54.com.tencent.wc.xin.SDKSample",
+                        "paths": [ "/sdksample/*" ]
+                    },
+                    {
+                        "appID":"SG5PVJM4JW.com.tencent.wx.xin.WeAppSDKSample",
+                        "paths":[ "/weappsdksample/*" ]
+                    },
+                    {
+                        "appID":"HKB8WPFBR9.com.tencent.qy.xin",
+                        "paths": [ "/cgi-bin/newreadtemplate", "/app/*" ]
+                    },
+                    {
+                        "appID": "HKB8WPFBR9.com.tencent.xin.WeAppSDKSample.db",
+                        "paths": [ "/weappsdksample/*" ]
+                    },
+                    {
+                        "appID": "V6JU9G4QMB.com.tencent.mm.xin.WeAppSDKSample",
+                        "paths": [ "/weappsdksample/*" ]
+                    }
+                ]
+    }
+}
